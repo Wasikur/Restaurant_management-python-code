@@ -1,0 +1,2 @@
+# Restaurant_management-python-code
+A python code written to develop a restaurant order management system where the order of the customer is taken along with it the cart value is displayed. Further if the customer wants to order more the cart value is increased based on the price of the item and when the customer stops ordering and decides to pay the bill, the system asks if he wants to pay any percentage of his bill as tip.
